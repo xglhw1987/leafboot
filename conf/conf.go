@@ -7,8 +7,8 @@ import (
 
 var (
 	// log conf
-	LogFlag = log.LstdFlags
-
+	//LogFlag = log.LstdFlags
+	LogFlag = log.LstdFlags | log.Llongfile
 	// gate conf
 	PendingWriteNum        = 2000
 	MaxMsgLen       uint32 = 4096

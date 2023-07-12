@@ -1,7 +1,7 @@
 package login
 
 import (
-	"leafboot/login/internal"
+	"leafboot/moudle/login/internal"
 )
 
 var (

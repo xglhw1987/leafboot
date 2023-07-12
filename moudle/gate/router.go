@@ -1,7 +1,7 @@
 package gate
 
 import (
-	"leafboot/game"
+	"leafboot/moudle/game"
 	"leafboot/msg"
 )
 

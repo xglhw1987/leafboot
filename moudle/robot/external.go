@@ -1,7 +1,7 @@
-package game
+package robot
 
 import (
-	"leafboot/game/internal"
+	"leafboot/moudle/robot/internal"
 )
 
 var (

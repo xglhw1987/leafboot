@@ -1,7 +1,7 @@
 package gate
 
 import (
-	"leafboot/gate/internal"
+	"leafboot/moudle/gate/internal"
 )
 
 var (

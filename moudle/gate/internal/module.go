@@ -3,7 +3,7 @@ package internal
 import (
 	"github.com/name5566/leaf/gate"
 	"leafboot/conf"
-	"leafboot/game"
+	"leafboot/moudle/game"
 	"leafboot/msg"
 )
 
